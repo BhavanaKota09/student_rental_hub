@@ -1,0 +1,173 @@
+[28-Mar-2021 03:22:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/index.php on line 31
+[28-Mar-2021 03:22:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rswebs/public_html/sairam/assignment-2/includes/db.php on line 9
+[28-Mar-2021 03:24:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/index.php on line 31
+[28-Mar-2021 03:24:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/index.php on line 31
+[28-Mar-2021 03:24:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/index.php on line 31
+[28-Mar-2021 03:24:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/index.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/common.php on line 81
+[28-Mar-2021 03:26:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function userlogin() in /home/rswebs/public_html/sairam/assignment-2/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rswebs/public_html/sairam/assignment-2/index.php on line 5
+[28-Mar-2021 03:27:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:27:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/home.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:27:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:27:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/home.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:28:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:28:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/AddaPayee.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:28:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:28:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/AddaPayee.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:28:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:28:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/Transfer.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:29:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:29:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:31:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:31:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:32:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:32:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:32:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:32:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:33:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:33:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:34:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:34:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:35:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:35:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:35:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:36:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:36:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:37:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:37:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:39:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:39:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:39:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:39:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:39:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:39:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:39:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:39:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:40:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:40:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:40:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:40:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 7
+[28-Mar-2021 03:42:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:42:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[28-Mar-2021 03:42:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:42:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[28-Mar-2021 03:42:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:42:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:44:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 10
+[28-Mar-2021 03:44:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:44:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 10
+[28-Mar-2021 03:44:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:44:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 10
+[28-Mar-2021 03:44:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:44:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:45:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:45:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function beneficiarydetail() in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 82
+[28-Mar-2021 03:46:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 9
+[28-Mar-2021 03:46:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:46:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:47:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/includes/header.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 9
+[28-Mar-2021 03:47:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:47:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:48:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:48:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:48:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:48:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:48:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:48:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:49:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 3
+[28-Mar-2021 03:49:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:50:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:50:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:50:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:51:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:51:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:51:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:51:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:51:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:51:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:54:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:54:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:54:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:54:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:56:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:56:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:56:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:56:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:56:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 4
+[28-Mar-2021 03:57:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 03:57:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rswebs/public_html/sairam/assignment-2/SchedulePayment.php on line 7
+[28-Mar-2021 04:01:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 2
+[28-Mar-2021 04:03:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 2
+[28-Mar-2021 04:03:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/AddaPayee.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[28-Mar-2021 04:04:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 2
+[28-Mar-2021 04:04:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/AddaPayee.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[28-Mar-2021 17:45:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 2
+[28-Mar-2021 17:45:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/home.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[28-Mar-2021 18:15:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[28-Mar-2021 18:15:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[28-Mar-2021 18:16:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 2
+[28-Mar-2021 18:16:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rswebs/public_html/sairam/assignment-2/home.php:1) in /home/rswebs/public_html/sairam/assignment-2/includes/header.php on line 8
+[29-Mar-2021 17:43:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[29-Mar-2021 17:43:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[29-Mar-2021 17:44:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[29-Mar-2021 17:44:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
+[29-Mar-2021 17:44:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rswebs/public_html/sairam/assignment-2/Register.php on line 25
